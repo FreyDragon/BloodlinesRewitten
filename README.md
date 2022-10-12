@@ -100,6 +100,8 @@ Level 3:
 Can gain Resistance for a reasonable period of time
 
 
+
+
 Some bloodlines also have weaknesses (so they aren't COMPLETELY broken).
 
 Mer: Can't breathe on land.
