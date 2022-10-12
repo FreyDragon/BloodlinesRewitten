@@ -2,6 +2,7 @@
 A minecraft mod, like Origins, but for Forge and more progresson-based and includes level system. 
 Please do not reupload this without permission. 
 I used Mcreator to create the base of the mod.
+I AM GOING TO QUIT USING MCREATOR, I AM JUST USING IT FOR THE BASIC FEATURES TO SAVE TIME!
 
 This mod currently has a few Bloodlines to choose from:
 
