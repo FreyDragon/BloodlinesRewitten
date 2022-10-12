@@ -1,0 +1,12 @@
+{
+  "_fv": 33,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "G",
+    "keyBindingName": "Ability 2",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "TriggerAbility2"
+    }
+  }
+}

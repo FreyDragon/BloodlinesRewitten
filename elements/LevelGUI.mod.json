@@ -1,0 +1,97 @@
+{
+  "_fv": 33,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Bloodline Level",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Bloodline Level",
+          "x": 132,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "1",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "IsMyMansLevelOne"
+          },
+          "name": "1",
+          "x": 213,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "2",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "IsMyMansLevelTwo"
+          },
+          "name": "2",
+          "x": 213,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "3",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "IsMyMansLevelThree"
+          },
+          "name": "3",
+          "x": 213,
+          "y": 44
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Level Up!",
+          "onClick": {
+            "name": "LevelUp"
+          },
+          "width": 72,
+          "height": 20,
+          "name": "Level Up!",
+          "x": 177,
+          "y": 152
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

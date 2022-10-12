@@ -1,0 +1,248 @@
+{
+  "_fv": 33,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Choose a Bloodline",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Choose a Bloodline",
+          "x": 132,
+          "y": 44
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Merfolk",
+          "onClick": {
+            "name": "SetBloodlineMer"
+          },
+          "width": 61,
+          "height": 20,
+          "name": "Merfolk",
+          "x": 132,
+          "y": 62
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Aasimar",
+          "onClick": {
+            "name": "SetBloodlineAasimar"
+          },
+          "width": 61,
+          "height": 20,
+          "name": "Aasimar",
+          "x": 132,
+          "y": 89
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Draconi",
+          "onClick": {
+            "name": "SetBloodlineDraconic"
+          },
+          "width": 61,
+          "height": 20,
+          "name": "Draconi",
+          "x": 132,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Strong in water,",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Strong in water,",
+          "x": 195,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "weak on land.",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "weak on land.",
+          "x": 195,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Descended from the",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Descended from the",
+          "x": 195,
+          "y": 89
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "angels themselves.",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "angels themselves.",
+          "x": 195,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Tough, but not very",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Tough, but not very",
+          "x": 195,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "versatile.",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "versatile.",
+          "x": 195,
+          "y": 125
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Gain XP to level up!",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Gain XP to level up!",
+          "x": 132,
+          "y": 53
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Faeri",
+          "onClick": {
+            "name": "SetBloodlineFae"
+          },
+          "width": 51,
+          "height": 20,
+          "name": "Faeri",
+          "x": 141,
+          "y": 143
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Ender",
+          "onClick": {
+            "name": "SetBloodlineEnder"
+          },
+          "width": 51,
+          "height": 20,
+          "name": "Ender",
+          "x": 141,
+          "y": 170
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Can fly, but can't",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Can fly, but can't",
+          "x": 195,
+          "y": 143
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "wear armor.",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "wear armor.",
+          "x": 195,
+          "y": 152
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Can teleport, and",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Can teleport, and",
+          "x": 195,
+          "y": 170
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "can't swim",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "can't swim",
+          "x": 195,
+          "y": 179
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

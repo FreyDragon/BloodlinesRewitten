@@ -1,0 +1,215 @@
+ABYSSALCRAFT
+https://www.curseforge.com/minecraft/mc-mods/abyssalcraft
+APPLECORE
+https://www.curseforge.com/minecraft/mc-mods/applecore
+ALCATRAZ
+https://www.curseforge.com/minecraft/mc-mods/alcatrazcore
+ANGEL OF VENGEANCE
+https://www.curseforge.com/minecraft/mc-mods/angel-of-vengeance
+ARCANE WORLD
+https://www.curseforge.com/minecraft/mc-mods/arcane-world
+ARMOR UNDERWEAR
+https://www.curseforge.com/minecraft/mc-mods/armor-underwear-mod
+ASTRAL SORCERY
+https://www.curseforge.com/minecraft/mc-mods/astral-sorcery
+AutoNetworkLib
+https://www.curseforge.com/minecraft/mc-mods/auto-network-lib
+BATTLE TOWERS
+https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers
+BAUBLES
+https://www.curseforge.com/minecraft/mc-mods/baubles
+BAUBLESHUD
+https://www.curseforge.com/minecraft/mc-mods/baubleshud
+BETTER COMBAT
+https://www.curseforge.com/minecraft/mc-mods/better-combat-rebirth
+BETTER NETHER
+https://www.curseforge.com/minecraft/mc-mods/betternether
+BEWITCHMENT
+https://www.curseforge.com/minecraft/mc-mods/bewitchment-legacy
+BIOME BUNDLE
+https://www.curseforge.com/minecraft/mc-mods/biome-bundle
+BLOOD MAGIC
+https://www.curseforge.com/minecraft/mc-mods/blood-magic
+BOOKSHELF
+https://www.curseforge.com/minecraft/mc-mods/bookshelf
+BOUNTIFUL BAUBLES
+https://www.curseforge.com/minecraft/mc-mods/bountifulbaubles
+BULLSEYE
+https://www.curseforge.com/minecraft/mc-mods/bullseye
+CARROTSLIB
+https://www.curseforge.com/minecraft/mc-mods/carrots-lib
+COMPAT SKILLS
+https://www.curseforge.com/minecraft/mc-mods/compatskills
+COROUTIL
+https://www.curseforge.com/minecraft/mc-mods/coroutil
+COSMETIC ARMOR REWORKED
+https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked
+CREATIVE CORE
+https://www.curseforge.com/minecraft/mc-mods/creativecore
+CYCLIC
+https://www.curseforge.com/minecraft/mc-mods/cyclic
+Death Counter
+https://www.curseforge.com/minecraft/mc-mods/death-counter
+DRAGON MOUNTS 2
+https://www.curseforge.com/minecraft/mc-mods/dm2
+DYNAMIC TREES
+https://www.curseforge.com/minecraft/mc-mods/dynamictrees
+DYNAMIC TREES (TWILIGHT FOREST)
+https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-the-twilight-forest
+EBWIZARDRY
+https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry
+ENHANCED VISUALS
+https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals
+FIRST AID
+https://www.curseforge.com/minecraft/mc-mods/first-aid
+GUIDE API
+https://www.curseforge.com/minecraft/mc-mods/guide-api
+HARDCORE DARKNESS
+https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness
+HOWLING MOON
+https://www.curseforge.com/minecraft/mc-mods/howling-moon
+HWYLA
+https://www.curseforge.com/minecraft/mc-mods/hwyla
+JEI
+https://www.curseforge.com/minecraft/mc-mods/jei
+JER
+https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
+LEMONLIB
+https://www.curseforge.com/minecraft/mc-mods/lemonlib
+LOST CITIES
+https://www.curseforge.com/minecraft/mc-mods/the-lost-cities
+MAGIC MIRROR
+https://www.curseforge.com/minecraft/mc-mods/the-magic-mirror
+MAHOU TSUKAI
+https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai
+MORE EXPLOSIVES
+https://www.curseforge.com/minecraft/mc-mods/even-more-explosives-mod
+MOREPLAYERMODELS
+https://www.curseforge.com/minecraft/mc-mods/more-player-models
+MOUSE TWEAKS
+https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
+MULTIMINE
+https://www.curseforge.com/minecraft/mc-mods/multi-mine
+MYSTICALLIB
+https://www.curseforge.com/minecraft/mc-mods/mysticallib
+MYSTICAL WORLD
+https://www.curseforge.com/minecraft/mc-mods/mystical-world
+OTG
+https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator
+OPTIFINE
+https://optifine.net/
+OVERLOADED ARMORBAR
+https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar
+PATCHOULI
+https://www.curseforge.com/minecraft/mc-mods/patchouli
+PERFORMANT
+https://www.curseforge.com/minecraft/mc-mods/performant
+POTIONCORE
+https://www.curseforge.com/minecraft/mc-mods/potion-core
+QUALITY TOOLS
+https://www.curseforge.com/minecraft/mc-mods/quality-tools
+RESOURCE LOADER
+https://www.curseforge.com/minecraft/mc-mods/resource-loader
+ROOTS
+https://www.curseforge.com/minecraft/mc-mods/roots
+ROUGHMOBS
+https://www.curseforge.com/minecraft/mc-mods/rough-mobs
+SERENE SEASONS 
+https://www.curseforge.com/minecraft/mc-mods/serene-seasons
+SILENT LIB
+https://www.curseforge.com/minecraft/mc-mods/silent-lib
+SOMANYENCHANTS
+https://www.curseforge.com/minecraft/mc-mods/so-many-enchantments
+SPARTAN SHIELDS
+https://www.curseforge.com/minecraft/mc-mods/spartan-shields
+SPARTAN WEAPONRY
+https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry
+SPECIAL MOBS
+https://www.curseforge.com/minecraft/mc-mods/special-mobs
+SWITCHBOW
+https://www.curseforge.com/minecraft/mc-mods/switch-bow
+TAMMODIZED
+https://www.curseforge.com/minecraft/mc-mods/tammodized
+TFSPELLPACK
+https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry-twilight-forest-spell-pack
+TNT SWORD
+https://www.curseforge.com/minecraft/mc-mods/tnt-sword
+TOROHEALTH
+https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators
+TOUGHNESS BAR
+https://www.curseforge.com/minecraft/mc-mods/armor-toughness-bar
+TF
+https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
+UNDERGROUNDBIOMES
+https://www.curseforge.com/minecraft/mc-mods/underground-biomes
+VAMPIRESNEEDUMBRELLAS
+https://www.curseforge.com/minecraft/mc-mods/vampires-need-umbrellas
+VAMPIRISM
+https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire
+WEARABLEBACKPACKS
+https://www.curseforge.com/minecraft/mc-mods/wearable-backpacks
+WEATHER
+https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes
+XAEROSWORLDMAP
+https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
+XAEROSMINIMAP
+https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+XPFROMHARVEST
+https://www.curseforge.com/minecraft/mc-mods/xp-from-harvest
+XPTOME
+https://www.curseforge.com/minecraft/mc-mods/xp-tome
+MIXIN COMPAT
+https://www.curseforge.com/minecraft/mc-mods/mixin-0-7-0-8-compatibility
+RAW ORES
+https://www.curseforge.com/minecraft/mc-mods/mjs-raw-ores/files
+SWORD SKILLS
+https://www.curseforge.com/minecraft/mc-mods/dynamic-sword-skills
+WATER MECHANICS BACKPORT
+https://www.curseforge.com/minecraft/mc-mods/bubble-column-elevator-backport
+ACTUALLY ADDITIONS
+https://www.curseforge.com/minecraft/mc-mods/actually-additions
+BETTER QUESTING/EXPANSIONS
+https://www.curseforge.com/minecraft/mc-mods/better-questing-standard-expansion/files
+https://www.curseforge.com/minecraft/mc-mods/better-questing
+COMFORTS
+https://www.curseforge.com/minecraft/mc-mods/comforts
+CONTROLLING
+https://www.curseforge.com/minecraft/mc-mods/controlling/files
+DAVINCIS VESSELS
+https://www.curseforge.com/minecraft/mc-mods/davincis-vessels
+MOVING WORLD
+https://www.curseforge.com/minecraft/mc-mods/movingworld
+DYNAMIC SURROUNDINGS
+https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings
+EMBERS
+https://www.curseforge.com/minecraft/mc-mods/embers
+FANCYMENU
+https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge/files
+GOLD IN THEM THAR HILLS
+https://www.curseforge.com/minecraft/mc-mods/gold-in-them-thar-hills
+ILLAGERS PLUS
+https://www.curseforge.com/minecraft/mc-mods/illagers/files
+KONKRETE
+https://www.curseforge.com/minecraft/mc-mods/konkrete/files
+NETHER UPDATE BACKPORT
+https://www.curseforge.com/minecraft/mc-mods/nether-update-backport
+PSI
+https://www.curseforge.com/minecraft/mc-mods/psi
+RECURRENT COMPLEX
+https://www.curseforge.com/minecraft/mc-mods/recurrent-complex
+REFINED STROAGE
+https://www.curseforge.com/minecraft/mc-mods/refined-storage/files
+RELIQUARY
+https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3/files
+RUNE CRAFT
+https://www.curseforge.com/minecraft/mc-mods/rune-craft/files
+TAILS
+https://www.curseforge.com/minecraft/mc-mods/tails/files
+WINGS
+https://www.curseforge.com/minecraft/mc-mods/wings/files
+TOMBSTONE
+https://www.curseforge.com/minecraft/mc-mods/corail-tombstone
+WHAT LOOMS AHEAD
+https://www.curseforge.com/minecraft/mc-mods/what-looms-ahead/files
+JUST ENOUGH IDs
+https://www.curseforge.com/minecraft/mc-mods/jeid
