@@ -19,6 +19,7 @@ import endermanfrey.bloodlinesrewritten.procedures.SetBloodlineMerProcedure;
 import endermanfrey.bloodlinesrewritten.procedures.SetBloodlineFaeProcedure;
 import endermanfrey.bloodlinesrewritten.procedures.SetBloodlineEnderProcedure;
 import endermanfrey.bloodlinesrewritten.procedures.SetBloodlineDraconicProcedure;
+import endermanfrey.bloodlinesrewritten.procedures.SetBloodlineDwarfProcedure;
 import endermanfrey.bloodlinesrewritten.procedures.SetBloodlineAasimarProcedure;
 import endermanfrey.bloodlinesrewritten.BloodlinesRewrittenMod;
 
@@ -85,6 +86,10 @@ public class ChooseBloodlineGUIButtonMessage {
 		if (buttonID == 4) {
 
 			SetBloodlineEnderProcedure.execute(entity);
+		}
+		if (buttonID == 5) {
+
+			SetBloodlineDwarfProcedure.execute(entity);
 		}
 	}
 

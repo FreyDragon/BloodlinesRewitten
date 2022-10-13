@@ -253,6 +253,21 @@ public class GameLoopProcedure {
 					entity.hurt(DamageSource.DROWN, 1);
 				}
 			}
+			if (("Dwarf").equals((entity.getCapability(BloodlinesRewrittenModVariables.PLAYER_VARIABLES_CAPABILITY, null)
+					.orElse(new BloodlinesRewrittenModVariables.PlayerVariables())).Bloodline)) {
+				if (entity instanceof LivingEntity _entity)
+					_entity.addEffect(new MobEffectInstance(MobEffects.DIG_SPEED, 20, 3));
+				}
+				if ((entity.getCapability(BloodlinesRewrittenModVariables.PLAYER_VARIABLES_CAPABILITY, null)
+						.orElse(new BloodlinesRewrittenModVariables.PlayerVariables())).BloodlineLevel >= 2) {
+					if (entity instanceof LivingEntity _entity)
+						_entity.addEffect(new MobEffectInstance(MobEffects.DAMAGE_BOOST, 20, 2));
+				}
+				if ((entity.getCapability(BloodlinesRewrittenModVariables.PLAYER_VARIABLES_CAPABILITY, null)
+						.orElse(new BloodlinesRewrittenModVariables.PlayerVariables())).BloodlineLevel == 3) {
+					if (entity instanceof LivingEntity _entity)
+						_entity.addEffect(new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE, 20, 4));
+				}
+			}
 		}
 	}
-}

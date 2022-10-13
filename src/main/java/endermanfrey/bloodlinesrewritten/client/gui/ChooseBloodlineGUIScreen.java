@@ -126,5 +126,11 @@ public class ChooseBloodlineGUIScreen extends AbstractContainerScreen<ChooseBloo
 				ChooseBloodlineGUIButtonMessage.handleButtonAction(entity, 4, x, y, z);
 			}
 		}));
+		this.addRenderableWidget(new Button(this.leftPos + 15, this.topPos + 160, 51, 20, new TextComponent("Dwarf"), e -> {
+			if (true) {
+				BloodlinesRewrittenMod.PACKET_HANDLER.sendToServer(new ChooseBloodlineGUIButtonMessage(5, x, y, z));
+				ChooseBloodlineGUIButtonMessage.handleButtonAction(entity, 5, x, y, z);
+			}
+		}));
 	}
 }
