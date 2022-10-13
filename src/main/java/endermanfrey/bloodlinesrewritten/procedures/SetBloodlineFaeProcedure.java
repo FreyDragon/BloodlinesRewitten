@@ -10,7 +10,7 @@ public class SetBloodlineFaeProcedure {
 		if (entity == null)
 			return;
 		{
-			String _setval = "Ender";
+			String _setval = "Fae";
 			entity.getCapability(BloodlinesRewrittenModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
 				capability.Bloodline = _setval;
 				capability.syncPlayerVariables(entity);
